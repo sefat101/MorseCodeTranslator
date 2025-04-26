@@ -37,23 +37,7 @@ Run the program and follow the on-screen instructions to select an option and pr
 Choose the "Text to Morse Code" option to convert text to Morse code.
 Choose the "Morse Code to Text" option to convert Morse code to text.
 Choose the "Exit" option to exit the program.
-Contributing
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and test thoroughly.
-Commit your changes and create a clear, descriptive pull request.
-Provide a detailed description of your changes and their purpose.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-Special thanks to OpenAI for inspiration.
-Contact
-If you have any questions or suggestions, please feel free to contact me.
-
-Customize the README with your project-specific details and contact information, and then include it in your GitHub repository. This README will help users understand how to use your Morse Code Translator project and contribute to it if they wish.
 
 
 
