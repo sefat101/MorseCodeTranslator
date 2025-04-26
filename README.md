@@ -16,27 +16,6 @@ Getting Started
 Prerequisites
 Java Development Kit (JDK) installed on your system.
 A Java development environment or IDE (e.g., Eclipse, IntelliJ IDEA, or Visual Studio Code).
-Clone the Repository
-bash-->
-
-git clone https://github.com/your-username/morse-code-translator.git
-Compile and Run
-Navigate to the project directory and compile the Java files:
-
-bash-->
-
-cd morse-code-translator
-javac MorseCodeTranslator.java
-Run the program:
-
-bash-->
-
-java MorseCodeTranslator
-Usage
-Run the program and follow the on-screen instructions to select an option and provide input.
-Choose the "Text to Morse Code" option to convert text to Morse code.
-Choose the "Morse Code to Text" option to convert Morse code to text.
-Choose the "Exit" option to exit the program.
 
 
 
